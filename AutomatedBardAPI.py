@@ -8,7 +8,7 @@ import random
 
 
 loopcounter = 0 
-os.environ["_BARD_API_KEY"] = "YQjLABsfXA3rW8935_hAPgAZvyAWYlei5rPbOvt0kiwK5fEB3Lo5_X6gkNhj2LmMEjAKxw."
+os.environ["_BARD_API_KEY"] = "Your Own KEY From Bard"
 websites =[]
 BardsResponse = []
 SummerizedBardResponse = []
